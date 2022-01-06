@@ -1,21 +1,21 @@
 {
-  "name": "@dnb-org-libraries/bootstrap-icons",
-  "description": "Bootstrap Icons for Hugo",
-  "version": "1.6.0",
+  "name": "@dnb-org/dnb-hugo-icons",
+  "description": "Icons for Hugo",
+  "version": "0.0.0",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "bugs": {
-    "url": "https://github.com/dnb-org/libraries/issues"
+    "url": "https://github.com/dnb-org/dnb-hugo-icons/issues"
   },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "3.4.6",
+    "@dnb-org/standard-version-config": "^3.4.6",
     "@dnb-org/tools": "^3.4.8"
   },
-  "homepage": "https://github.com/dnb-org/libraries/tree/master/bootstrap-icons",
+  "homepage": "https://github.com/dnb-org/dnb-hugo-icons",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "release": "standard-version --release-as patch -a -t \"bootstrap-icons/v\" --releaseCommitMessageFormat \"chore(release): bootstrap-icons/v{{currentTag}}\" && ./bin/release-hook-postrelease.sh",
-    "release:major": "standard-version --release-as major -a -t \"bootstrap-icons/v\" --releaseCommitMessageFormat \"chore(release): bootstrap-icons/v{{currentTag}}\" && ./bin/release-hook-postrelease.sh",
-    "release:minor": "standard-version --release-as minor -a -t \"bootstrap-icons/v\" --releaseCommitMessageFormat \"chore(release): bootstrap-icons/v{{currentTag}}\" && ./bin/release-hook-postrelease.sh"
+    "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease.sh",
+    "release:major": "standard-version --release-as major -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease.sh",
+    "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease.sh"
   }
 }
