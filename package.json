@@ -7,8 +7,7 @@
     "url": "https://github.com/dnb-org/libraries/issues"
   },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "3.3.7",
-    "standard-version": "9.3.2"
+    "@dnb-org/standard-version-config": "3.4.6"
   },
   "homepage": "https://github.com/dnb-org/libraries/tree/master/bootstrap-icons",
   "license": "MIT",
