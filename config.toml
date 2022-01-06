@@ -21,3 +21,17 @@ ignoreImports = true
 [[module.imports.mounts]]
 source = "icons"
 target = "assets/libs/bootstrap-icons"
+
+[[module.imports]]
+path = "github.com/tailwindlabs/heroicons"
+disable = false
+ignoreConfig = true
+ignoreImports = true
+
+[[module.imports.mounts]]
+source = "optimized/outline"
+target = "assets/icons/heroicons/outline"
+
+[[module.imports.mounts]]
+source = "optimized/solid"
+target = "assets/icons/heroicons/solid"

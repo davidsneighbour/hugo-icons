@@ -12,11 +12,13 @@ This is a Hugo theme component adding [Bootstrap Icons](https://icons.getbootstr
 ### Usage
 
 This module adds a content page at http://localhost:1313/dnb/bootstrap-icons/ that shows an overview of all available icons and their code.
+This module adds a content page at http://localhost:1313/dnb/heroicons/ that shows an overview of all available icons and their code.
 
 Call these icons as partials:
 
 ```gotemplate
 {{ partialCached "bsicon" "arrow-right" "arrow-right" }}
+{{ partialCached "heroicon" "arrow-right" "arrow-right" }}
 ```
 
 <!--- THINGSTOKNOW BEGIN --->
