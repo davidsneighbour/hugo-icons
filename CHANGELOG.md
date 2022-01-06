@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.6.0 (2022-01-06)
+
+
+### Chore
+
+* **deps:** update dependencies ([0cba8ec](https://github.com/dnb-org/dnb-hugo-icons/commit/0cba8eca07b42c5a0363c60d52aa8687ff8cdfa9))
+* initial commit, current version ([6be0e89](https://github.com/dnb-org/dnb-hugo-icons/commit/6be0e899ebd777379bc4ffa4924baabd0f5df7c4))
+
 ### [1.5.4](https://github.com/dnb-hugo/libraries/compare/bootstrap-icons/v1.5.3...bootstrap-icons/v1.5.4) (2021-10-29)
 
 
