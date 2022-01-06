@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.0.0...v1.0.1) (2022-01-06)
+
+
+### Chore
+
+* **config:** fix gomod setup ([d82a59e](https://github.com/dnb-org/dnb-hugo-icons/commit/d82a59e9391981ad31b9565f8e41c55c70696232))
+
 ## 1.0.0 (2022-01-06)
 
 
