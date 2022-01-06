@@ -19,6 +19,6 @@
     "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease.sh"
   },
   "dependencies": {
-    "mem": "^1.1.0"
+    "mem": "^4.0.0"
   }
 }
