@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.0...v1.1.1) (2022-02-02)
+
+
+### Build System
+
+* prepare README.md in prerelease hook ([ca81123](https://github.com/dnb-org/dnb-hugo-icons/commit/ca81123dcaaf03cfd4a3253f49a5a791545e63a9))
+* restructure build system ([eed28e8](https://github.com/dnb-org/dnb-hugo-icons/commit/eed28e8b3a6fe5ea8f08076b0b3d12c06c60ad4a))
+
+
+### Chore
+
+* **config:** update header images ([e0855c7](https://github.com/dnb-org/dnb-hugo-icons/commit/e0855c7bd4748efd3fb3e80dc22ced03fe3f8351))
+* **deps:** add dependencies for dependabot ([4035047](https://github.com/dnb-org/dnb-hugo-icons/commit/4035047a62c8a736b313d8dbc75e83510998a261))
+* **deps:** bump mem from 1.1.0 to 4.0.0 ([cb53b5b](https://github.com/dnb-org/dnb-hugo-icons/commit/cb53b5b4e7f567fb4431c6a92d6b86b57a8b725a))
+* **deps:** merge pull request [#1](https://github.com/dnb-org/dnb-hugo-icons/issues/1) from dnb-org/dependabot/npm_and_yarn/mem-4.0.0 ([ac118b0](https://github.com/dnb-org/dnb-hugo-icons/commit/ac118b0ec08ac014d29f3ef9a2bf5effcc694642))
+* **deps:** update Bootstrap Icons to 1.8.0 ([91b9e37](https://github.com/dnb-org/dnb-hugo-icons/commit/91b9e37767e270874bfe5d8fee77ce655dfa45d9))
+* **deps:** update dependencies ([15e17d4](https://github.com/dnb-org/dnb-hugo-icons/commit/15e17d42cbac8c740a1b04d0ed018e07882141df))
+* **fix:** update release scripts ([bd368ea](https://github.com/dnb-org/dnb-hugo-icons/commit/bd368eab61922458c058836ee9d6a4354045d945))
+
 ## [1.1.0](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.0.1...v1.1.0) (2022-01-06)
 
 
