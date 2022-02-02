@@ -11,7 +11,7 @@ if test -f "$SCRIPTPATH"/replacements; then
   done <"$SCRIPTPATH"/replacements
 fi
 
-bin/build/prepare-doccs
+bin/build/prepare-docs
 git add README.md
 
 hugo mod get -u ./...
@@ -22,6 +22,6 @@ git add go.sum
 
 if test -f "$SCRIPTPATH"/replacements; then
   while read -ra __; do
-    go mod edit -replace ${__[0]}=${__[1]}
+    go mod edit -replace "${__[0]}"="${__[1]}"
   done <"$SCRIPTPATH"/replacements
 fi
