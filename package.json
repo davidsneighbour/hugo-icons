@@ -7,8 +7,8 @@
     "url": "https://github.com/dnb-org/dnb-hugo-icons/issues"
   },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "^3.4.6",
-    "@dnb-org/tools": "^3.4.8"
+    "@dnb-org/standard-version-config": "^3.5.2",
+    "@dnb-org/tools": "^3.5.2"
   },
   "homepage": "https://github.com/dnb-org/dnb-hugo-icons",
   "license": "MIT",
@@ -19,6 +19,6 @@
     "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease.sh"
   },
   "dependencies": {
-    "mem": "^4.0.0"
+    "mem": "^9.0.2"
   }
 }
