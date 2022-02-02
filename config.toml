@@ -5,6 +5,10 @@ extended = true
 min = "0.84.0"
 
 [[module.mounts]]
+source = "data"
+target = "data"
+
+[[module.mounts]]
 source = "content"
 target = "content"
 
