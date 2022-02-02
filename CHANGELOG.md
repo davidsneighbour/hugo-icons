@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.2...v1.1.3) (2022-02-02)
+
+
+### Chore
+
+* **config:** add data folder with build info file ([49b51a3](https://github.com/dnb-org/dnb-hugo-icons/commit/49b51a38c8a23829d973ebb1b25bf15dfd376c3e))
+* **config:** move configuration to config folder ([106cf1e](https://github.com/dnb-org/dnb-hugo-icons/commit/106cf1e3e336c4aefd1f18fb5f76fe1bdb9cdf6c))
+* **deps:** add dependencies via dependabot ([7df4890](https://github.com/dnb-org/dnb-hugo-icons/commit/7df4890fe21966df06479f9c0f1c4201f023832c))
+
 ### [1.1.2](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.1...v1.1.2) (2022-02-02)
 
 
