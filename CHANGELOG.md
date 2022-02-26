@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.3...v1.1.4) (2022-02-26)
+
+
+### Build System
+
+* **ci:** add dependabot configuration ([2405de6](https://github.com/dnb-org/dnb-hugo-icons/commit/2405de614e3841d690306da12518002331698aa6))
+
+
+### Documentation
+
+* **fix:** heading issues in README and LICENSE ([9aabfa0](https://github.com/dnb-org/dnb-hugo-icons/commit/9aabfa03b6913b985f8a40c95c750d2b3f9ebdf0))
+
+
+### Chore
+
+* **deps:** update dependencies ([782b930](https://github.com/dnb-org/dnb-hugo-icons/commit/782b930e0f815a9ae9e533b21215b0540172337c))
+* **deps:** update icon fonts ([b37889b](https://github.com/dnb-org/dnb-hugo-icons/commit/b37889b53345f414339afa730314f1fde2d94c89))
+
 ### [1.1.3](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.2...v1.1.3) (2022-02-02)
 
 

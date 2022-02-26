@@ -1,8 +1,4 @@
-github.com/tailwindlabs/heroicons v1.0.3 h1:X7j//m1rTs6gtFRXgYpfqp5TCaESKzDjwpJa11ZIGu0=
-github.com/tailwindlabs/heroicons v1.0.3/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
 github.com/tailwindlabs/heroicons v1.0.5 h1:dFJXGbU9K6NAqtunR+7P61vTFJ00uzHM4E/r04OyX10=
 github.com/tailwindlabs/heroicons v1.0.5/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
-github.com/twbs/icons v1.8.0 h1:ujOCyzOpCsr4o6RXOMYg9y5OoJqoLAloFNRfRTWYzGw=
-github.com/twbs/icons v1.8.0/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
 github.com/twbs/icons v1.8.1 h1:0friuyXfO1G6+oRt2lzry6uI5TjTjkI9IvAyplvd9oI=
 github.com/twbs/icons v1.8.1/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
