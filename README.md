@@ -9,10 +9,10 @@
 
 This is a Hugo theme component adding [Bootstrap Icons](https://icons.getbootstrap.com/).
 
-### Usage
+## Usage
 
-This module adds a content page at http://localhost:1313/dnb/bootstrap-icons/ that shows an overview of all available icons and their code.
-This module adds a content page at http://localhost:1313/dnb/heroicons/ that shows an overview of all available icons and their code.
+This module adds a content page at <http://localhost:1313/dnb/bootstrap-icons/> that shows an overview of all available icons and their code.
+This module adds a content page at <http://localhost:1313/dnb/heroicons/> that shows an overview of all available icons and their code.
 
 Call these icons as partials:
 
