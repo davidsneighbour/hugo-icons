@@ -8,14 +8,9 @@
   "bugs": {
     "url": "https://github.com/dnb-org/dnb-hugo-icons/issues"
   },
-  "dependencies": {
-    "ansi-regex": ">=5.0.1",
-    "mem": "^9.0.2",
-    "yargs-parser": ">=13.1.2"
-  },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "^3.5.2",
-    "@dnb-org/tools": "^3.5.2"
+    "@dnb-org/standard-version-config": "^3.5.6",
+    "@dnb-org/tools": "^3.5.6"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
