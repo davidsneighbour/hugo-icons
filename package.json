@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@dnb-org/standard-version-config": "^3.5.6",
-    "@dnb-org/tools": "^3.5.6"
+    "@dnb-org/tools": "^3.5.8"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
