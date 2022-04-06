@@ -1,4 +1,4 @@
-module github.com/dnb-org/dnb-hugo-icons
+module github.com/davidsneighbour/hugo-icons
 
 go 1.17
 
