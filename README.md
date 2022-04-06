@@ -7,7 +7,12 @@
 
 # DNB GoHugo Component / Icons
 
-This is a Hugo theme component adding [Bootstrap Icons](https://icons.getbootstrap.com/).
+This is a Hugo theme component that adds several icon sets to your Hugo website.
+
+## Available Icon Fonts
+
+- **(bs/bootstrap)**: [Bootstrap Icons](https://icons.getbootstrap.com/)
+- **(hr/heroicon)**: [Hero Icons](https://heroicons.com/)
 
 ## Usage
 
@@ -53,7 +58,6 @@ Then add this module to your required modules in config.toml.
 
 [[module.imports]]
 path = "github.com/dnb-org/dnb-hugo-icons"
-
 ```
 
 The next time you run `hugo` it will download the latest version of the module.
@@ -67,6 +71,11 @@ hugo mod get -u github.com/dnb-org/dnb-hugo-icons
 hugo mod get -u ./...
 ```
 <!--- INSTALLUPDATE END --->
+
+## FAQ
+
+<details><summary>Why are there no actual icon fonts included in this module?</summary>
+</details>
 
 <!--- COMPONENTS BEGIN --->
 
