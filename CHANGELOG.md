@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.5...v1.2.0) (2022-04-07)
+
+
+### Chore
+
+* updates and repo-renames ([8f9f17c](https://github.com/dnb-org/dnb-hugo-icons/commit/8f9f17c8ee3bcc71b7e2eb58dbe3ea1470d0485d))
+
 ### [1.1.5](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.1.4...v1.1.5) (2022-04-06)
 
 
