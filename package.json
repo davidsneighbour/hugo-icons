@@ -1,12 +1,12 @@
 {
-  "name": "@dnb-org/dnb-hugo-icons",
+  "name": "@davidsneighbour/hugo-icons",
   "version": "1.1.5",
   "license": "MIT",
   "description": "Icons for Hugo",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
-  "homepage": "https://github.com/dnb-org/dnb-hugo-icons",
+  "homepage": "https://github.com/davidsneighbour/hugo-icons",
   "bugs": {
-    "url": "https://github.com/dnb-org/dnb-hugo-icons/issues"
+    "url": "https://github.com/davidsneighbour/hugo-icons/issues"
   },
   "devDependencies": {
     "@dnb-org/standard-version-config": "^3.5.6",
