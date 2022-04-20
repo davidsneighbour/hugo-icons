@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.0...v1.2.1) (2022-04-20)
+
+
+### Build System
+
+* update Github organization name & use newer NPM dependencies ([ea0d20e](https://github.com/dnb-org/dnb-hugo-icons/commit/ea0d20e912e3f5b68b834df80569f58fc0424362))
+
 ## [1.2.0](https://github.com/davidsneighbour/hugo-icons/compare/v1.1.5...v1.2.0) (2022-04-07)
 
 
