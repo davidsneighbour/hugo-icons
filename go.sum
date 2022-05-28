@@ -2,3 +2,5 @@ github.com/tailwindlabs/heroicons v1.0.6 h1:XquXj196+XH8+EUDC1wXKMCF6F2ziVKncN66
 github.com/tailwindlabs/heroicons v1.0.6/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
 github.com/twbs/icons v1.8.1 h1:0friuyXfO1G6+oRt2lzry6uI5TjTjkI9IvAyplvd9oI=
 github.com/twbs/icons v1.8.1/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
+github.com/twbs/icons v1.8.3 h1:p37snQOP0lkpdmIWhaz8GWREl2Mod74GdK0WPwZtr/g=
+github.com/twbs/icons v1.8.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
