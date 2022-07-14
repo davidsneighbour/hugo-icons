@@ -4,3 +4,5 @@ github.com/twbs/icons v1.8.1 h1:0friuyXfO1G6+oRt2lzry6uI5TjTjkI9IvAyplvd9oI=
 github.com/twbs/icons v1.8.1/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
 github.com/twbs/icons v1.8.3 h1:p37snQOP0lkpdmIWhaz8GWREl2Mod74GdK0WPwZtr/g=
 github.com/twbs/icons v1.8.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
+github.com/twbs/icons v1.9.0 h1:dXBQ1OSNpgQh8BC21PwddFO0GCxZls/yFxLzH1i3IuE=
+github.com/twbs/icons v1.9.0/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
