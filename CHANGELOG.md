@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.5](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.4...v1.2.5) (2022-07-22)
+
+
+### Chore
+
+* **config:** add content pages only in development mode ([675d0ff](https://github.com/dnb-org/dnb-hugo-icons/commit/675d0ffb6d606e0ccdc3bbf4df868a1dfc9ec2b8))
+* **deps:** update go.mod file ([7135e17](https://github.com/dnb-org/dnb-hugo-icons/commit/7135e17ed3caa72f43469f58b17cbb6dd7c14207))
+
 ### [1.2.4](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.3...v1.2.4) (2022-07-17)
 
 ### [1.2.3](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.2...v1.2.3) (2022-07-14)
