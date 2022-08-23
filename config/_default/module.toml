@@ -18,7 +18,7 @@ ignoreImports = true
 
 [[imports.mounts]]
 source = "icons"
-target = "assets/libs/bootstrap-icons"
+target = "assets/icons/bootstrap-icons"
 
 [[imports]]
 path = "github.com/tailwindlabs/heroicons"
@@ -33,3 +33,13 @@ target = "assets/icons/heroicons/outline"
 [[imports.mounts]]
 source = "optimized/solid"
 target = "assets/icons/heroicons/solid"
+
+[[imports]]
+path = "github.com/tabler/tabler-icons"
+disable = false
+ignoreConfig = true
+ignoreImports = true
+
+[[imports.mounts]]
+source = "icons"
+target = "assets/icons/tabler-icons"
