@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.6](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.5...v1.2.6) (2022-08-23)
+
+
+### Features
+
+* adding tabler icons ([961070d](https://github.com/dnb-org/dnb-hugo-icons/commit/961070d19ac8255b2b275a5a926b8411c4e3bd28))
+
+
+### Bug Fixes
+
+* proper layouts for bs and hr icons ([e6120fe](https://github.com/dnb-org/dnb-hugo-icons/commit/e6120fef02695c6771dd5768a5c9c14417fa8fd2))
+
+
+### Documentation
+
+* update README.md ([db863f2](https://github.com/dnb-org/dnb-hugo-icons/commit/db863f2286eca8a6024c89e92efdcc1297d6383d))
+
 ### [1.2.5](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.4...v1.2.5) (2022-07-22)
 
 
