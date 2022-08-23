@@ -3,7 +3,7 @@
 {{ partial "bsicon" "cart" }}
 */ -}}
 {{- $iconname := . -}}
-{{- $icon := (printf "libs/bootstrap-icons/%s.svg" $iconname) -}}
+{{- $icon := (printf "icons/bootstrap-icons/%s.svg" $iconname) -}}
 {{- with resources.Get $icon -}}
   <span class="icon--bs icon--{{- $iconname -}}">
     {{- .Content | safeHTML -}}

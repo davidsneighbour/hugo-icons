@@ -1,5 +1,4 @@
 ---
-title: David's Neighbour Hugo Libs Bootstrap Icons Overview
+title: Bootstrap Icons
 layout: bootstrap-icons-overview
-draft: true
 ---
