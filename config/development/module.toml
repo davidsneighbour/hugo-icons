@@ -32,11 +32,11 @@ ignoreImports = true
 
 [[imports.mounts]]
 source = "optimized/outline"
-target = "assets/icons/heroicons/outline"
+target = "assets/icons/heroicons/24/outline"
 
 [[imports.mounts]]
 source = "optimized/solid"
-target = "assets/icons/heroicons/solid"
+target = "assets/icons/heroicons/24/solid"
 
 [[imports]]
 path = "github.com/tabler/tabler-icons"
