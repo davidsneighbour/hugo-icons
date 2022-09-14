@@ -1,6 +1,10 @@
 github.com/tabler/tabler-icons v1.95.0 h1:sohErbatrRbr2bqR5Pk9cb0zyzDxGXIRx83WWcUISsY=
 github.com/tabler/tabler-icons v1.95.0/go.mod h1:Ap75CRdhXxprnUnPlUCRLvJ2pIFNqwxIipj3GfD6XHE=
+github.com/tabler/tabler-icons v1.96.0 h1:wVGr1Gr0XLk58lQLPbc3djNL6l/4BZsuEncHjz/x+jA=
+github.com/tabler/tabler-icons v1.96.0/go.mod h1:Ap75CRdhXxprnUnPlUCRLvJ2pIFNqwxIipj3GfD6XHE=
 github.com/tailwindlabs/heroicons v2.0.10+incompatible h1:7VUv6ZGIkDIO0SkGvaEixabonKkn+Kn7aNX4buoECqU=
 github.com/tailwindlabs/heroicons v2.0.10+incompatible/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
+github.com/tailwindlabs/heroicons v2.0.11+incompatible h1:36MxPTDyqvfO4inkmIVQby1wXPOANyVOjfa8j0XAdSQ=
+github.com/tailwindlabs/heroicons v2.0.11+incompatible/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
 github.com/twbs/icons v1.9.1 h1:NDdenWKL1Ioe8O5tV0m/pNC/J68kGE3GjH3DPTI1zE0=
 github.com/twbs/icons v1.9.1/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
