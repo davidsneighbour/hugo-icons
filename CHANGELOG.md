@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.12](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.11...v1.2.12) (2022-09-22)
+
+
+### Chore
+
+* **deps:** update tabler-icons to v1.97.0 ([68238ed](https://github.com/dnb-org/dnb-hugo-icons/commit/68238ed3b6951bdeb7f0ba7a97a789100acffd1b))
+
 ### [1.2.11](https://github.com/dnb-org/dnb-hugo-icons/compare/v1.2.10...v1.2.11) (2022-09-14)
 
 
