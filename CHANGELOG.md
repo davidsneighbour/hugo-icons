@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.19](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.18...v1.2.19) (2022-10-18)
+
+
+### Chore
+
+* **deps:** update tabler-icons to v1.105.0 ([7c41698](https://github.com/davidsneighbour/hugo-icons/commit/7c416980c9f465bc99a557cff0c328633e1b6040))
+
 ### [1.2.18](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.17...v1.2.18) (2022-10-14)
 
 
