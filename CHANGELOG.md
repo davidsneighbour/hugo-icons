@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.21](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.20...v1.2.21) (2022-11-11)
+
+
+### Chore
+
+* **deps:** update icon packs ([feac8b7](https://github.com/davidsneighbour/hugo-icons/commit/feac8b76652d1db11a49dcf41b9758f35bf1f4ec))
+
 ### [1.2.20](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.19...v1.2.20) (2022-10-20)
 
 
