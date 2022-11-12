@@ -4,3 +4,5 @@ github.com/tailwindlabs/heroicons v2.0.13+incompatible h1:7QQlx1bPFqxn38t/d5+8lq
 github.com/tailwindlabs/heroicons v2.0.13+incompatible/go.mod h1:2SHGOdw86jviBkoeQINcTfkzAAao9dciip4RsMS9xIg=
 github.com/twbs/icons v1.9.1 h1:NDdenWKL1Ioe8O5tV0m/pNC/J68kGE3GjH3DPTI1zE0=
 github.com/twbs/icons v1.9.1/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
+github.com/twbs/icons v1.10.0 h1:qHb89BovuqbDy43yH45FV2MHZ0A94mSujYhhMYhRDgs=
+github.com/twbs/icons v1.10.0/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
