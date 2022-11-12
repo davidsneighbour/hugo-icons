@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.22](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.21...v1.2.22) (2022-11-12)
+
+
+### Chore
+
+* **desp:** update twitter icons to v1.10.0 ([7412e5b](https://github.com/davidsneighbour/hugo-icons/commit/7412e5b3ec773b67a6e0e039a55611cd3a86a0d2))
+
 ### [1.2.21](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.20...v1.2.21) (2022-11-11)
 
 
