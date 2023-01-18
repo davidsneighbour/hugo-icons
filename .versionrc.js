@@ -1,4 +1,4 @@
-const defaultStandardVersion = require("@davidsneighbour/standard-version-config");
+const defaultStandardVersion = require("@davidsneighbour/config/standard-version.js");
 
 const localStandardVersion = {
   bumpFiles: [
