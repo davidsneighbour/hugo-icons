@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/davidsneighbour/hugo-icons/compare/v1.3.0...v1.3.1) (2023-01-18)
+
+
+### Chore
+
+* **config:** fix release type of npm run update ([d3a8d9d](https://github.com/davidsneighbour/hugo-icons/commit/d3a8d9de1a77e0f10fc2405f2c522c5575586049))
+
+
+### Build System
+
+* **fix:** update release scripts ([5bbe5ef](https://github.com/davidsneighbour/hugo-icons/commit/5bbe5efbe4e20587b5ce7b81f51be597971f9f1f))
+
 ## [1.3.0](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.25...v1.3.0) (2023-01-18)
 
 ### [1.2.25](https://github.com/davidsneighbour/hugo-icons/compare/v1.2.24...v1.2.25) (2022-12-15)
