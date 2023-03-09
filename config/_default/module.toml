@@ -41,5 +41,5 @@ ignoreConfig = true
 ignoreImports = true
 
 [[imports.mounts]]
-source = "icons"
+source = "src/_icons"
 target = "assets/icons/tabler-icons"
