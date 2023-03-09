@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/davidsneighbour/hugo-icons/compare/v1.3.1...v1.3.2) (2023-03-09)
+
+
+### Features
+
+* quick icon shortcode ([ce939a4](https://github.com/davidsneighbour/hugo-icons/commit/ce939a404bd407a8208e8f5fae9e18a4757826ac))
+* update tabler icons from v1 to v2 ([03581a5](https://github.com/davidsneighbour/hugo-icons/commit/03581a50bccc237e41f845c24c7273a00ea6bce1))
+
+
+### Chore
+
+* **deps:** bump http-cache-semantics from 4.1.0 to 4.1.1 ([93add00](https://github.com/davidsneighbour/hugo-icons/commit/93add0074cfc8313b755cbc6d0854f1b90e6d161))
+* **deps:** bump minimatch from 3.0.4 to 3.1.2 ([#27](https://github.com/davidsneighbour/hugo-icons/issues/27)) ([f01a2c2](https://github.com/davidsneighbour/hugo-icons/commit/f01a2c260b607c85d87965d1b9ca3e5266c0be35))
+* **deps:** update dependencies ([cb60c3d](https://github.com/davidsneighbour/hugo-icons/commit/cb60c3d3cf95171a2e14db9119038f6785439f96))
+
 ### [1.3.1](https://github.com/davidsneighbour/hugo-icons/compare/v1.3.0...v1.3.1) (2023-01-18)
 
 
